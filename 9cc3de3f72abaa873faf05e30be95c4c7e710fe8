@@ -1,0 +1,23 @@
+tldr/cross_file_calls.py
+  ae9c879cf1b49dbf 1937,3320
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.7",
+  "base_commit_sha": "9cc3de3f72abaa873faf05e30be95c4c7e710fe8",
+  "prompts": {
+    "ae9c879cf1b49dbf": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "edabbc89-bc7a-4f16-b6c2-cc941a7e7eb5",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Scott Nixon <citadelgrad@gmail.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
